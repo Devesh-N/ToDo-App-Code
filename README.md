@@ -7,5 +7,5 @@ Proxy: CORS everywhere
 
 Planned additions:
 LogIn Backend Golang -> Will use MongoDB to authenticate user + Give API key to user | uses mongodb
-C# -> Will validate API key
+Go  -> Go api validation repo
 Python -> Will send notification of welcome e-mail by getting the emails out of kafka topic
