@@ -6,6 +6,5 @@ Main ToDo App backend Rust: https://github.com/Devesh-N/rust-todo-app.git | Writ
 Proxy: CORS everywhere
 
 Planned additions:
-LogIn Backend Golang -> Will use MongoDB to authenticate user + Give API key to user | uses mongodb
-Go  -> Go api validation repo
+Go  -> Go api validation repo https://github.com/Devesh-N/go-api-validation.git
 Python -> Will send notification of welcome e-mail by getting the emails out of kafka topic
