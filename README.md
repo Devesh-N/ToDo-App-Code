@@ -42,6 +42,12 @@ This document outlines the architecture of the ToDo App, detailing the frontend 
 - **Description:** A new addition to the project, providing API key validation services.
 - **Repository:** [Go API Key Validation Repo](https://github.com/Devesh-N/go-api-validation.git)
 
+### Go Authentication Service
+
+- **Technology Stack:** Go
+- **Description:** Manages user Logins.
+- **Repository:** [Go Authentication Service](https://github.com/Devesh-N/go-todo-auth.git) 
+
 ## Note
 
 For the system to function correctly, ensure the proxy is running on port 9000, as all applications are interconnected and depend on this configuration.
