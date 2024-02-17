@@ -46,7 +46,7 @@ This document outlines the architecture of the ToDo App, detailing the frontend 
 
 - **Technology Stack:** Go
 - **Description:** Manages user Logins.
-- **Repository:** [Go Authentication Service](https://github.com/Devesh-N/go-todo-main.git) 
+- **Repository:** [Go Authentication Service]([https://github.com/Devesh-N/go_todo_main)    
 
 ## Note
 
