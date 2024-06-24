@@ -3,7 +3,7 @@
 ## Overview
 
 This document outlines the architecture of the ToDo App, detailing the frontend and backend components, including services for user registration, task management, and additional utilities. Each component is linked to its respective repository for easy access.
-
+ 
 ## Frontend
 
 - **Technology Stack:** HTML, Tailwind CSS, Vanilla JavaScript
